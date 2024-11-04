@@ -17,3 +17,7 @@ La interfaz está construida usando **Tkinter**. En ella puedes:
 - Elegir si prefieres optimizar la ruta por **tiempo** o por **transbordos**.
 - Mostrar el mapa del metro de Madrid en una ventana emergente.
 
+## 📊 Análisis de Complejidad
+
+El análisis de la complejidad del programa se encuentra en el archivo [complejidad.md](complejidad.md).
+
