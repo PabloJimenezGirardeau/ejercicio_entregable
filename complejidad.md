@@ -2,7 +2,7 @@
 
 ### 1. Algoritmo de Dijkstra
 
-El algoritmo de Dijkstra se utiliza para encontrar la ruta más corta en el sistema de metro de Madrid, optimizando por tiempo.
+El algoritmo de Dijkstra se utiliza para encontrar la ruta más corta en el sistema de metro de Madrid.
 
 - **Big O (O)**: \( O((V + E) \log V) \)
 - **Theta (Θ)**: \( Θ((V + E) \log V) \)
