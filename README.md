@@ -1,6 +1,7 @@
 # Metro Madrid - Optimización de Rutas
 
 Este proyecto es una aplicación interactiva que permite calcular rutas óptimas en el sistema de metro de Madrid (lineas 1-10). Utilizando algoritmos como Dijkstra, optimiza la ruta entre dos estaciones, ya sea por el menor tiempo de trayecto o por la menor cantidad de transbordos.
+He descubierto que al haber puestos tiempos aleatorios entre estaciones, si filtras la ruta por tiempo aveces te da una ruta que no tiene mucho sentido. Aun asi siguen siendo validas
 
 ## 📄 Descripción del proyecto
 
